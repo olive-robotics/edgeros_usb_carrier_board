@@ -1,4 +1,4 @@
-# Olive Robotics EdgeROS SOM01-X Carrier Board
+# Olive Robotics EdgeROS SOM01-X USB Carrier Board
 
 ## Overview
 
