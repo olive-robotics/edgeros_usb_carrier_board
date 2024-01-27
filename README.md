@@ -4,6 +4,10 @@
 
 This repository contains the KiCad project files for a carrier board designed to interface with the Olive Robotics EdgeROS SOM01-X. The carrier board connects via the 2x18 pin connector on the EdgeROS and provides a USB 2.0 interface.
 
+<img width="558" alt="Screenshot 2024-01-27 at 13 55 56" src="https://github.com/olive-robotics/olv_edgeros_usb_extension/assets/6655052/8cca28c7-801d-465b-9c41-27b7a1c1e30d">
+
+<img width="774" alt="Screenshot 2024-01-27 at 13 37 42" src="https://github.com/olive-robotics/olv_edgeros_usb_extension/assets/6655052/ea678456-0651-4705-ab70-6d99d17f37e7">
+
 ## Features
 
 - 2x18 pin connector for interfacing with EdgeROS SOM01-X
